@@ -44,7 +44,7 @@ function createPDFWithQRCode(qrImagePath, pdfOutputPath) {
 }
 
 // Example usage
-const textToEncode = 'https://docs.google.com/forms/d/e/1FAIpQLSc528gqCnnYCEu8SD7fDgdoel6PXd2_lNphhJ5ud0FgeEbXzg/viewform?usp=sf_link';
+const textToEncode = '<text_here>';
 const qrImagePath = 'qr.png';
 const pdfOutputPath = 'output.pdf';
 
